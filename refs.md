@@ -56,6 +56,9 @@
 - [CLI (Coomand Line Interface)](https://www.youtube.com/watch?v=hNdAQQeqkYU)
 - [Directory & Terminal](https://www.youtube.com/watch?v=6z7FVYXnk3E)
 
+#### Python
+- [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
+
 #### conda, Jupyter
 - [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [Anaconda 설치 및 Jupyter Notebook 사용법](https://www.youtube.com/watch?v=dJfq-eCi7KI)
