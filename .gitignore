@@ -1,5 +1,9 @@
 data/
 logs/
 results*/
+ml*/
+runs/
 .ipynb_checkpoints/
 *.png
+*.jpg
+*.txt
