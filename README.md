@@ -7,6 +7,11 @@ Deep Learning (DL) at Kyung Hee University (KHU)
 - [Deep Learning Fundamentals - Sebastian Raschka](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Dive into Deep Learning](https://d2l.ai)
 
+### Community
+- [Papers With Code](https://paperswithcode.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Hugging Face](https://huggingface.co/)
+
 ## Basics
 - [Jupyter Notebook, JupyterLab, Google Colab and Kaggle Notebook](https://www.youtube.com/watch?v=5pf0_bpNbkw)
 - [Jupyter Notebook in VS Code](https://www.youtube.com/watch?v=suAkMeWJ1yE)
