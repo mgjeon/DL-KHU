@@ -9,8 +9,8 @@ Deep Learning (DL) at Kyung Hee University (KHU)
 
 ### Community
 - [Papers With Code](https://paperswithcode.com/)
-- [Kaggle](https://www.kaggle.com/)
 - [Hugging Face](https://huggingface.co/)
+- [Kaggle](https://www.kaggle.com/)
 
 ## Basics
 - [Jupyter Notebook, JupyterLab, Google Colab and Kaggle Notebook](https://www.youtube.com/watch?v=5pf0_bpNbkw)
