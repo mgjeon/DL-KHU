@@ -68,12 +68,6 @@
 - [I don't like notebooks - Joel Grus](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [I Like Notebooks - Jeremy Howard](https://www.youtube.com/watch?v=9Q6sLbz37gk)
 
-### AutoML
-- [AutoGloun](https://auto.gluon.ai/stable/index.html)
- 
-### Latest information
-- [Papers With Code](https://paperswithcode.com/)
-
 ### Computer Science
 - [Havard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
