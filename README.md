@@ -18,6 +18,7 @@ Deep Learning (DL) at Kyung Hee University (KHU)
 - [생활코딩](https://opentutorials.org/course/1)
 
 ## How to find resources
+- Google Search
 - Paper
   - [NASA ADS](https://ui.adsabs.harvard.edu/)
   - [Google Scholar](https://scholar.google.com/)
