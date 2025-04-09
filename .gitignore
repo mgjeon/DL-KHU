@@ -7,3 +7,4 @@ runs/
 *.png
 *.jpg
 *.txt
+wandb/

@@ -11,16 +11,18 @@ dependencies = [
     "lightning>=2.5.1",
     "matplotlib>=3.10.1",
     "mlflow>=2.21.3",
+    "nbformat>=5.10.4",
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "tensorboard>=2.19.0",
     "timm>=1.0.15",
-    "torch>=2.6.0",
-    "torchaudio>=2.6.0",
+    "torch==2.6.0",
+    "torchaudio==2.6.0",
     "torchinfo>=1.8.0",
     "torchmetrics>=1.7.0",
-    "torchvision>=0.21.0",
+    "torchvision==0.21.0",
     "tqdm>=4.67.1",
+    "wandb>=0.19.9",
 ]
 
 [dependency-groups]
@@ -28,5 +30,18 @@ dev = [
     "nbdev>=2.4.2",
 ]
 
-[tool.uv.workspace]
-members = ["test"]
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+torchvision = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+torchaudio = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true
