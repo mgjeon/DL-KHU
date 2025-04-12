@@ -8,3 +8,7 @@ runs/
 *.jpg
 *.txt
 wandb/
+*zip
+balloon/
+dataset/
+output*/
