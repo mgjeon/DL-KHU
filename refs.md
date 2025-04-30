@@ -10,7 +10,6 @@
 - [Practical Deep Learning](https://course.fast.ai/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/index.html)
 - [MIT Deep Learning 6.S191](https://introtodeeplearning.com/)
-- [Applied Deep Learning - Maziar Raissi](https://github.com/maziarraissi/Applied-Deep-Learning)
 - [Teaching - Roger Grosse](https://www.cs.toronto.edu/~rgrosse/teaching.html)
 - [Deep Learning - iAI KAIST](https://iailab.kaist.ac.kr/teaching/deep-learning)
 
