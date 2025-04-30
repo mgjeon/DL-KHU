@@ -6,6 +6,7 @@
 - [Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
 
 ## General DL - Lecture
+- [Applied Deep Learning - Maziar Raissi](https://github.com/maziarraissi/Applied-Deep-Learning)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/index.html)
