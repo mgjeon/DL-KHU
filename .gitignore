@@ -12,3 +12,7 @@ wandb/
 balloon/
 dataset/
 output*/
+.vscode/
+checkpoints/
+experiments/
+segment-anything-2/
