@@ -16,3 +16,8 @@ output*/
 checkpoints/
 experiments/
 segment-anything-2/
+novel_views/
+*.mp4
+*.pkl
+*.pth
+*.gif
