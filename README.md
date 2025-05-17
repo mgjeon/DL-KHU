@@ -1,5 +1,5 @@
 # Deep Leanring (DL) at Kyung Hee University (KHU)
-Materials created while serving as a teaching assistant for the course 'Space Exploration AI Project I (우주탐사 인공지능 프로젝트 I)' at Kyung Hee University (경희대학교)
+Materials created while serving as a teaching assistant for the course 'Space Exploration AI Project I (우주탐사 인공지능 프로젝트 I)' at Kyung Hee University (경희대학교).
 
 ## Deep Learning
 - [파이토치 한번에 끝내기 - 이수안컴퓨터연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
