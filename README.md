@@ -1,8 +1,6 @@
 # Deep Leanring (DL) at Kyung Hee University (KHU)
 These materials were created for educational purposes while serving as a teaching assistant for the course '2025 Space Exploration AI Project 1 (2025 우주탐사 인공지능 프로젝트 1)' at Kyung Hee University (경희대학교).
 
-These materials were created using content from various sources, ranging from directly copied content to those I wrote myself. While I have attempted to provide proper attribution where possible, I do not take any responsibility for copyright issues that may arise if these materials are used for purposes other than education.
-
 ## Deep Learning
 - [파이토치 한번에 끝내기 - 이수안컴퓨터연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Neural Networks / Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
