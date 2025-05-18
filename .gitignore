@@ -21,3 +21,5 @@ novel_views/
 *.pkl
 *.pth
 *.gif
+TrainedModel/
+**/__pycache__/
