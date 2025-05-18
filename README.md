@@ -11,7 +11,7 @@ They include a mix of content I created myself and content taken from various ex
 - TensorBoard, MLflow, Weights & Biases
 - Hugging Face, transformers, diffusers, PyTorch Image Models (timm)
 - JAX, Julia
-- DeepXDE, NeuralOperator, PySR, PySINDy, NeuroMANCER
+- DeepXDE, NeuralOperator, PySR, PySINDy, NeuroMANCER, Diffrax
 
 ### Concept
 - Loss Function
@@ -28,7 +28,7 @@ They include a mix of content I created myself and content taken from various ex
 - Physics-informed Neural Network (PINN), Finite-difference methods (FDM), Seperable PINN (SPINN)
 - Deep Operator Network (DeepONet), Physics-informed DeepONet (PI-DeepONet), Neural Operator, Fourier Neural Operator (FNO), Physics-informed Nerual Operator (PINO)
 - Symbolic Regression (SR), Sparse Identification of Nonlinear Dynamical systems (SINDy)
-- Neural Differential Equations, Neural Ordinary Differential Equation (Neural ODE), Universal Differential Equation (UDE)
+- Neural Differential Equation (NDE), Neural Ordinary Differential Equation (Neural ODE), Universal Differential Equation (UDE)
 
 
 ## References
