@@ -1,6 +1,7 @@
 # Deep Leanring (DL) at Kyung Hee University (KHU)
 These materials were created for educational purposes while serving as a teaching assistant for the course "Space Exploration AI Project 1 (우주탐사 인공지능 프로젝트 1)" at Kyung Hee University (경희대학교).
 
+
 ## Topics
 
 - Loss Function
@@ -17,7 +18,7 @@ These materials were created for educational purposes while serving as a teachin
 - Generative AI, Variational Autoencoder (VAE), Generative Adversarial Networks (GAN), Diffusion Model
 - Implicit Neural Representations, Sinusoidal Representation Networks (SIREN), Neural Field, Neural Radiance Fields (NeRF)
 - Physics-informed Machine Learning, Scientific Machine Learning (SciML), AI4Science
-- Physis-informed Neural Networks (PINNs), Finite-difference methods (FDM), Seperable PINN (SPINN)
+- Physics-informed Neural Networks (PINNs), Finite-difference methods (FDM), Seperable PINN (SPINN)
 - Deep Operator Networks (DeepONets), Physics-informed DeepONets (PI-DeepONets)
 
 
