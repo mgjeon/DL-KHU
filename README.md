@@ -6,22 +6,29 @@ They include a mix of content I created myself and content taken from various ex
 
 ## Topics
 
+### Software
+- PyTorch, PyTorch Lightning 
+- TensorBoard, MLflow, Weights & Biases
+- Hugging Face, transformers, diffusers, PyTorch Image Models (timm)
+- JAX, Julia
+- DeepXDE, NeuralOperator, PySR, PySINDy, NeuroMANCER
+
+### Concept
 - Loss Function
-- PyTorch, PyTorch Lightning, Hugging Face (Transformers, Diffusers, ...), JAX
 - Univariate Regression, Binary Classification, Multiclass Classification
 - Multilayer Perceptron (MLP), Convolutional Neural Network (CNN)
-- TensorBoard, MLflow, Weights & Biases
-- torchvision, PyTorch Image Models (timm)
 - Pre-trained Model, Transfer Learning, Fine-Tuning
 - Explainable AI (XAI), Gradient-weighted Class Activation Mapping (Grad-CAM)
 - Vision Transformer (ViT)
 - Object Detection, Semantic Segmentation
 - Segment Anything Model (SAM), Florence-2, Large Language Model (LLM; e.g. ChatGPT, Gemini) for Computer Vision
 - Generative AI, Variational Autoencoder (VAE), Generative Adversarial Networks (GAN), Diffusion Model
-- Implicit Neural Representations, Sinusoidal Representation Networks (SIREN), Neural Field, Neural Radiance Fields (NeRF)
 - Physics-informed Machine Learning, Scientific Machine Learning (SciML), AI4Science
-- Physics-informed Neural Networks (PINNs), Finite-difference methods (FDM), Seperable PINN (SPINN)
-- Deep Operator Networks (DeepONets), Physics-informed DeepONets (PI-DeepONets)
+- Implicit Neural Representations, Sinusoidal Representation Networks (SIREN), Neural Field, Neural Radiance Fields (NeRF)
+- Physics-informed Neural Network (PINN), Finite-difference methods (FDM), Seperable PINN (SPINN)
+- Deep Operator Network (DeepONet), Physics-informed DeepONet (PI-DeepONet), Neural Operator, Fourier Neural Operator (FNO), Physics-informed Nerual Operator (PINO)
+- Symbolic Regression (SR), Sparse Identification of Nonlinear Dynamical systems (SINDy)
+- Neural Differential Equations, Neural Ordinary Differential Equation (Neural ODE), Universal Differential Equation (UDE)
 
 
 ## References

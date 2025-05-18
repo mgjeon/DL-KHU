@@ -58,6 +58,7 @@
 
 #### Python
 - [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
+- [uv](https://github.com/astral-sh/uv)
 
 #### conda, Jupyter
 - [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
