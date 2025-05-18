@@ -1,6 +1,8 @@
 # Deep Leanring (DL) at Kyung Hee University (KHU)
 These materials were created for educational purposes while serving as a teaching assistant for the course "Space Exploration AI Project 1 (우주탐사 인공지능 프로젝트 1)" at Kyung Hee University (경희대학교).
 
+They include a mix of content I created myself and content taken from various external sources. I have tried to provide proper credit, but some sources may be missing. I apologize for any omissions.
+
 
 ## Topics
 
