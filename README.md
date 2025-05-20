@@ -12,6 +12,7 @@ They include a mix of content I created myself and content taken from various ex
 - Hugging Face libraries (Transformers, Diffusers, timm)
 - JAX, Julia
 - DeepXDE, NeuralOperator, PySR, PySINDy, NeuroMANCER, Diffrax
+- ...
 
 ### Concept
 - Loss Function
@@ -29,6 +30,7 @@ They include a mix of content I created myself and content taken from various ex
 - Deep Operator Network (DeepONet), Physics-informed DeepONet (PI-DeepONet), Neural Operator, Fourier Neural Operator (FNO), Physics-informed Nerual Operator (PINO)
 - Symbolic Regression (SR), Sparse Identification of Nonlinear Dynamical systems (SINDy)
 - Neural Differential Equation (NDE), Neural Ordinary Differential Equation (Neural ODE), Universal Differential Equation (UDE)
+- ...
 
 
 ## References
