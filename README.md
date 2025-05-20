@@ -9,7 +9,7 @@ They include a mix of content I created myself and content taken from various ex
 ### Software
 - PyTorch, PyTorch Lightning 
 - TensorBoard, MLflow, Weights & Biases
-- Hugging Face, transformers, diffusers, PyTorch Image Models (timm)
+- Hugging Face libraries (Transformers, Diffusers, timm)
 - JAX, Julia
 - DeepXDE, NeuralOperator, PySR, PySINDy, NeuroMANCER, Diffrax
 
