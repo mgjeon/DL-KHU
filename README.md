@@ -60,7 +60,7 @@ They include a mix of content I created myself and content taken from various ex
 - LLM
   - [ChatGPT](https://chatgpt.com/)
   - [Gemini](https://gemini.google.com/app)
-  - [Perplexity](https://www.perplexity.ai/)
+- ...
 
 ### Additional References: [Click here](refs.md)
 
