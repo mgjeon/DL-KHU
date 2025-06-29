@@ -7,6 +7,7 @@
 
 ## General DL - Lecture
 - [Applied Deep Learning - Maziar Raissi](https://github.com/maziarraissi/Applied-Deep-Learning)
+- [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/index.html)
