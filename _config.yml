@@ -1,0 +1,13 @@
+title: Deep Learning Notebooks for KHU
+author: Mingyu Jeon
+copyright: "2025"
+
+execute:
+  execute_notebooks: 'off'
+
+repository:
+  url: https://github.com/mgjeon/DL-KHU
+
+html:
+  use_issues_button: true
+  use_repository_button: true
