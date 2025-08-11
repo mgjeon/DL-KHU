@@ -14,6 +14,7 @@
 - [MIT Deep Learning 6.S191](https://introtodeeplearning.com/)
 - [Teaching - Roger Grosse](https://www.cs.toronto.edu/~rgrosse/teaching.html)
 - [Deep Learning - iAI KAIST](https://iailab.kaist.ac.kr/teaching/deep-learning)
+- [Zero to Mastery](https://www.learnpytorch.io/)
 
 ## General DL - Youtube
 - [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
